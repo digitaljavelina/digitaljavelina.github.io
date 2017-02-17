@@ -13,7 +13,7 @@ name                     : "Michael Henry"
 description              : "iOS, web, and medicine. Hacked."
 url                      : "https://michaelhenry.blog"
 baseurl                  : "/"
-repository               : "digitaljavelina/digitaljavelina.github.io"
+repository               : "https://digitaljavelina/digitaljavelina.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true
 words_per_minute         : 200
@@ -57,7 +57,7 @@ yandex_site_verification :
 twitter:
   username               : "imichaelhenry"
 facebook:
-  username               : "mididoc09"
+  username               :
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Michael Henry"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "I am a pediatric hematologist/oncologist living and practicing in Phoenix, Arizona. I am learning to code iOS apps in Swift and LOVING IT! Come join me as I take a journey through coding, medicine, and improving health care through technology."
+  bio              : "I am a pediatric hematologist/oncologist living and practicing in Phoenix, Arizona. Come join me as I take a journey through coding, medicine, and improving health care through technology."
   location         : "Phoenix, AZ, USA"
   email            :
   uri              : "https://michaelhenry.blog"
