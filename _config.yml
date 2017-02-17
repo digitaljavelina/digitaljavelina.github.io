@@ -7,15 +7,15 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Michael Henry's Blog"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+name                     : "Michael Henry"
+description              : "iOS, web, and medicine. Hacked."
+url                      : "https://michaelhenry.blog"
+baseurl                  : "/"
+repository               : "digitaljavelina/digitaljavelina.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -27,7 +27,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master"
@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "imichaelhenry"
 facebook:
-  username               :
+  username               : "mididoc09"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -70,41 +70,41 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google"
   google:
-    tracking_id          :
+    tracking_id          : "UA-36276425-4"
 
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Michael Henry"
+  avatar           : "/assets/images/avatar.jpg"
+  bio              : "I am a pediatric hematologist/oncologist living and practicing in Phoenix, Arizona. I am learning to code iOS apps in Swift and LOVING IT! Come join me as I take a journey through coding, medicine, and improving health care through technology."
+  location         : "Phoenix, AZ, USA"
   email            :
-  uri              :
+  uri              : "https://michaelhenry.blog"
   bitbucket        :
   codepen          :
-  dribbble         :
+  dribbble         : "digitaljavelina"
   flickr           :
-  facebook         :
+  facebook         : "mididoc09"
   foursquare       :
-  github           :
+  github           : "digitaljavelina"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "digitaljavelina"
   lastfm           :
-  linkedin         :
+  linkedin         : "digitaljavelina"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : "6197866/michael-henry"
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "imichaelhenry"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          :
 
 
 # Reading Files
@@ -174,7 +174,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "America/Phoenix"
 
 
 # Plugins
@@ -241,6 +241,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: false
       share: true
       related: true
