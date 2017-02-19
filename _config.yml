@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Michael Henry's Blog"
+title                    : "iOS, web, and medicine. Hacked."
 title_separator          : "-"
 name                     : "Michael Henry"
 description              : "iOS, web, and medicine. Hacked."
 url                      : "https://michaelhenry.blog"
 baseurl                  : "/"
-repository               : "https://digitaljavelina/digitaljavelina.github.io"
+repository               : "digitaljavelina/digitaljavelina.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true
 words_per_minute         : 200
@@ -79,15 +79,15 @@ analytics:
 author:
   name             : "Michael Henry"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "I am a pediatric hematologist/oncologist living and practicing in Phoenix, Arizona. Come join me as I take a journey through coding, medicine, and improving health care through technology."
+  bio              :
   location         : "Phoenix, AZ, USA"
   email            :
-  uri              : "https://michaelhenry.blog"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         : "digitaljavelina"
   flickr           :
-  facebook         : "mididoc09"
+  facebook         :
   foursquare       :
   github           : "digitaljavelina"
   google_plus      :
