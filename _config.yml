@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "Michael Henry"
 description              : "iOS, web, and medicine. Hacked."
 url                      : "https://michaelhenry.blog"
-baseurl                  : "/"
+baseurl                  : 
 repository               : "digitaljavelina/digitaljavelina.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true
