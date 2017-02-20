@@ -14,8 +14,8 @@
 {% else %}
   <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
-{% if page.thumbnail %}
-  <meta name="twitter:image:src" content="{{ site.url }}/assets/images/{{ page.thumbnail }}">
+{% if header.image %}
+  <meta name="twitter:image:src" content="{{ site.url }}/assets/images/{{ header.image }}">
 {% else %}
   <meta name="twitter:image:src" content="{{ site.url }}/assets/images/avatar.jpg">
 {% endif %}
