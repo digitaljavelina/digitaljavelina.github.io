@@ -41,6 +41,14 @@
   & + .page__meta {
     margin-top: -0.5em;
   }
+
+  a {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
 
 .page__lead {
