@@ -36,11 +36,12 @@ Now you have to repeat the process on the second (and third, etc) computer that 
 
 That should be it, and your MarsEdit instances now should be synced. You may have to push "Refresh" on the main MarsEdit interface to see your posts, and they will all be there. Good luck and have fun! 
 
-If you have any questions or feedback, please contact me at @imichaelhenry on Twitter. Until next time!
+If you have any questions or feedback, please contact me at [@imichaelhenry][4] on Twitter. Until next time!
 
 [1]:	https://red-sweater.com/marsedit/
 [2]:	https://red-sweater.com/
 [3]:	http://www.zibity.com/macdropany.html
+[4]:	twitter.com/imichaelhenry
 
 [image-1]:	/assets/images/macdropany-main-screen.png "MacDropAny main screen"
 [image-2]:	/assets/images/macdropany-start-screen.png "MacDropAny start screen"
