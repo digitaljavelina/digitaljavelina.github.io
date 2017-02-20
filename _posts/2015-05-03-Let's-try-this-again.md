@@ -1,3 +1,8 @@
+---
+header:
+  image: /assets/images/long-road-ahead.jpg
+---
+
 So, now that I have gone through what seems like sixteen WordPress themes and customizations, I finally settled on something of which I was proud. And it was not Wordpress. I gave up. I just could not find the right theme, and I do not know PHP to do some tweaking. That’s not to say that I won’t be tweaking things in the (near) future, but at least I have something with which to start.
 
 I almost joined the [Kirby](http://getkirby.com/) ecosystem, but I ran into the same problem with PHP. Sure there are a few templates available, but I wanted to make this blog my own. I do like Kirby a lot, though, because the flat file system (*i.e.*, no database) was an attractive option. Along those lines, I even dabbled in [Octopress](http://octopress.org/) and [Pelican](http://blog.getpelican.com/) for a bit, but my lack of knowledge in Ruby and Python (respectively) made for a steep learning curve. Another contender was [Qards](http://designmodo.com/qards/), but it proved to be a little too cumbersome, especially if I wanted to use a specialized blogging text editor such as [MarsEdit](http://www.red-sweater.com/marsedit/) or [Desk](http://desk.pm/) to edit my posts.

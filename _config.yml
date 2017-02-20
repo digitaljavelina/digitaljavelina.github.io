@@ -111,6 +111,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - all-posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -244,3 +245,9 @@ defaults:
       comments: false
       share: true
       related: true
+  # _collections
+  - scope:
+      path: ""
+      type: all-posts
+    values:
+      layout: page
