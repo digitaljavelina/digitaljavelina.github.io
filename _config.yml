@@ -66,7 +66,14 @@ og_image                 : "/assets/images/avatar-large.jpg"
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links:
+    - "https://twitter.com/imichaelhenry"
+    - "https://facebook/com/mididoc09"
+    - "https://instagram.com/digitaljavelina"
+    - "https://linkedin.com/in/digitaljavelina"
+    - "https://stackoverflow.com/users/6197866/michael-henry"
+    - "https://dribbble.com/digitaljavelina"
+    - "https://github.com/digitaljavelina"
 
 # Analytics
 analytics:
