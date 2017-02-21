@@ -1,4 +1,4 @@
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@imichaelhenry">
 <meta name="twitter:creator" content="@imichaelhenry">
 {% if page.title %}
@@ -14,8 +14,8 @@
 {% else %}
   <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
-{% if header.image %}
-  <meta name="twitter:image:src" content="{{ site.url }}/assets/images/{{ header.image }}">
+{% if page.image %}
+  <meta name="twitter:image:src" content="{{ site.url }}/assets/images/{{ page.image }}">
 {% else %}
   <meta name="twitter:image:src" content="{{ site.url }}/assets/images/avatar-large.jpg">
 {% endif %}
