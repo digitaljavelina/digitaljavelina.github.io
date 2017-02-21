@@ -1,6 +1,6 @@
 ---
 title: "Syncing MarsEdit between multiple Macs using MacDropAny"
---- 
+---
 
 I just started getting into blogging again, and I rediscovered the fantastic app [MarsEdit][1] by Daniel Jalkut at [Red Sweater Software][2]. MarsEdit is, in my opinion, the best blogging software out there. It makes the blogging workflow so easy, and I appreciate all of the time and care he puts into the app. I have an iMac at home, and I take my MacBook Air practically everywhere I go. When I write a draft of a post using MarsEdit on one computer, a problem arises because that draft is stored locally on the one machine, and the other machine never sees it because there is no built-in syncing system in MarsEdit (yet!). There are a lot of ways to do this, most of them involving command line foo, but I really like the app [MacDropAny][3] by Zibity.
 

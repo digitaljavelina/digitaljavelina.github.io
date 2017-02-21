@@ -1,3 +1,8 @@
+---
+header:
+  image: /assets/images/lights-sirens.png
+---
+
 As a physician, my life is filled with paperwork, medical equipment, and (to a child) a whole lot of neat-looking machines. My 6-year-old daughter always jumps at the chance to come to the medical offices where I see patients. She loves to see firsthand the patients, the medical workers, and the environment where healthcare is administered. [My PlayHome Hospital][1], an interactive "hospital dollhouse" app from PlayHome Software Ltd, allows you to explore the inside (and outside!) of a hospital in quite a unique and immersive fashion. I occasionally let my daughter play too.   :)
 
 As soon as you stroll through the main entrance of the hospital, you are greeted by the front desk staff, who can be moved to anywhere in the room. If you place a staff person on a chair, he/she sits down. You can have them answer the phone and accept faxes from the machine in the corner on the left. You can move new people from the top of the screen into the scene - you can place the kids so that they are standing on the desk - just like they do at a real doctor's office!    :)
