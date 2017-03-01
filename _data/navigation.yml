@@ -4,6 +4,8 @@ main:
     url: /page-archive/
   - title: "About"
     url: /about/
+  - title: "Pinboard"
+    url: /links/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
