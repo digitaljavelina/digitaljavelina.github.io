@@ -11,6 +11,6 @@ I am also the the owner of [Digital Javelina, LLC][1], my new software developme
 
 ![][image-1]
 
-[1]:	digitaljavelina.com
+[1]:	https://digitaljavelina.com
 
 [image-1]:	/assets/images/DigitalJavelina_logos_final.png "Digital Javelina logo"
