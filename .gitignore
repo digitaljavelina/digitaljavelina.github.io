@@ -16,3 +16,4 @@ npm-debug.log*
 /.Ulysses-favorites.plist
 /.Ulysses-Group.plist
 /test
+*.plist
