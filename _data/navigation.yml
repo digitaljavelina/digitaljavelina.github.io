@@ -6,11 +6,7 @@ main:
     url: /about/
   - title: "Pinboard"
     url: /links/
+  - title: "Newsletter"
+    url: "http://newsletter.michaelhenry.blog/"
   - title: "Colophon"
     url: /colophon/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
