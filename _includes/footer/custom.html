@@ -1,7 +1,29 @@
 <!-- start custom footer snippets -->
 
 <!-- ITunes affiliate autolink creator -->
-<script type='text/javascript'>var _merchantSettings=_merchantSettings || [];_merchantSettings.push(['AT', '10lQ4n']);(function(){var autolink=document.createElement('script');autolink.type='text/javascript';autolink.async=true; autolink.src= ('https:' == document.location.protocol) ? 'https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js' : 'http://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(autolink, s);})();</script>
+<script type='text/javascript'>var _merchantSettings=_merchantSettings || [];_merchantSettings.push(['AT', '10lQ4n']);(function(){var autolink=document.createElement('script');autolink.type='text/javascript';autolink.async=true; autolink.src= ('https:' == document.location.protocol) ? 'https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js' : 'http://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(autolink, s);})();
+</script>
 <!-- end ITunes affiliate autolink creator -->
+
+<!-- RSS feed Google Analytics code -->
+<script type='text/javascript'>
+var var_utmac='UA-36276425-4'; //enter the new urchin code
+var var_utmhn='https://michaelhenry.blog/feed.xml'; //enter your rss url
+var var_utmn=rand(1000000000,9999999999);//random request number
+var var_cookie=rand(10000000,99999999);//random cookie number
+var var_random=rand(1000000000,2147483647); //number under 2147483647
+var var_today=time(); //today
+var var_referer=_SERVER['HTTP_REFERER']; //referer url
+
+var var_uservar='-'; //enter your own user defined variable
+var var_utmp='/rss'+_SERVER['REMOTE_ADDR']; //this example adds a fake page request to the (fake) rss directory (the viewer IP to check for absolute unique RSS readers)
+
+var urchinUrl='http://www.google-analytics.com/__utm.gif?utmwv=1&utmn='+var_utmn+'&utmsr=-&utmsc=-&utmul=-&utmje=0&utmfl=-&utmdt=-&utmhn='+var_utmhn+'&utmr='+var_referer+'&utmp='+var_utmp+'&utmac='+var_utmac+'&utmcc=__utma%3D'+var_cookie+'.'+var_random+'.'+var_today+'.'+var_today+'.'+var_today+'.2%3B%2B__utmb%3D'+var_cookie+'%3B%2B__utmc%3D'+var_cookie+'%3B%2B__utmz%3D'+var_cookie+'.'+var_today+'.2.2.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none)%3B%2B__utmv%3D'+var_cookie+'.'+var_uservar+'%3B';
+
+var handle = fopen (urchinUrl, "r");
+var test = fgets(handle);
+fclose(handle);
+</script>
+<!-- end RSS feed Google Analytics code -->
 
 <!-- end custom footer snippets -->
