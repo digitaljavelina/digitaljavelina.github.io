@@ -6,7 +6,5 @@ main:
     url: /about/
   - title: "Pinboard"
     url: /links/
-  - title: "Newsletter"
-    url: "http://newsletter.michaelhenry.blog/"
   - title: "Colophon"
     url: /colophon/
