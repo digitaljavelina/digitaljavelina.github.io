@@ -17,6 +17,7 @@
     {% endif %}
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i>Main {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
     <li><a href="http://mike.micro.blog/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i>Micro.blog Feed</a></li>
+    <li><a href="http://mike.micro.blog/feed/json><"<i class="fa fa-fw fa-rss-square" aria-hidden="true"></i>JSON.feed</a></li>
   </ul>
 </div>
 
